@@ -19,7 +19,7 @@ pip install matplotlib
 Installation
 Clone the repository
 
-git clone https://github.com/saibhuvana/celsiusss
+git clone https://github.com/saibhuvana/celsius
 Usage
 Run
 
